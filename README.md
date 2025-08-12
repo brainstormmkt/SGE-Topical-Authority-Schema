@@ -4,6 +4,7 @@ Advanced Schema for SGE & Topical Authority
 This repository showcases the exact JSON-LD Schema markup I engineered for a pillar page (/cidade/goiania) to establish deep topical authority and achieve a featured position in Google's AI Overviews (SGE).
 This is not a standard plugin-generated schema. It's a custom-built, strategic implementation designed to communicate expertise directly to Google's algorithms.
 The Strategy: Why This Code Works
+
 This markup leverages several advanced concepts:
 @graph Structure: Instead of single entities, I use @graph to define multiple, interconnected entities on the same page. This provides a richer, more complete context for search engines.
 Pillar & Cluster Model (hasPart / isPartOf): The main Article schema explicitly tells Google that it "hasPart" (tem parte) - a series of cluster articles. This structurally defines the pillar page as the authority hub for the topic "Goiânia".

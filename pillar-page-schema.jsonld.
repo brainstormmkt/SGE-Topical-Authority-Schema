@@ -1,1 +1,131 @@
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://portalimovelja.com.br/cidade/goiania"
+      },
+      "headline": "Tudo Sobre Goiânia: Guia Completo 2025 para Morar, Visitar e Investir",
+      "description": "Explore nosso guia pilar sobre Goiânia! Descubra a história, os melhores bairros como Setor Bueno e Marista, o que fazer, e por que a qualidade de vida aqui é referência no Brasil.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://portalimovelja.com.br/wp-content/uploads/2025/04/goiania.webp",
+        "width": 800,
+        "height": 550
+      },
+      "author": {
+        "@type": "Organization",
+        "@id": "https://portalimovelja.com.br/#organization"
+      },
+      "publisher": {
+        "@id": "https://portalimovelja.com.br/#organization"
+      },
+      "datePublished": "2025-04-19T11:18:00-03:00",
+      "dateModified": "2025-07-10T19:19:14-03:00",
+      "articleSection": [
+        "Cidades do Brasil: Guias Completos para Morar e Visitar",
+        "Bairros em Goiânia",
+        "Dicas Imobiliárias"
+      ],
+      "about": {
+        "@type": "City",
+        "name": "Goiânia",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Goiânia",
+          "addressRegion": "GO",
+          "addressCountry": "BR"
+        },
+        "hasMap": "https://www.google.com/maps/place/Goiânia,+GO"
+      },
+      "mainEntity": {
+          "@type": "FAQPage",
+          "mainEntity": [
+            { "@type": "Question", "name": "Qual a população de Goiânia, GO?", "acceptedAnswer": { "@type": "Answer", "text": "Conforme a estimativa mais recente do IBGE para 2024, a população de Goiânia é de 1.555.626 habitantes, consolidando-a como uma das maiores cidades do país." } },
+            { "@type": "Question", "name": "Quantos bairros tem em Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A capital goiana é bastante extensa, contando com 641 bairros oficialmente registrados e distribuídos por sete administrações regionais." } },
+            { "@type": "Question", "name": "Porque Goiânia é famosa?", "acceptedAnswer": { "@type": "Answer", "text": "Goiânia é famosa por seu planejamento urbano, com muitas áreas verdes, e por ser um vibrante polo cultural, destacando-se na música sertaneja e no rock." } },
+            { "@type": "Question", "name": "Porque Goiânia virou capital?", "acceptedAnswer": { "@type": "Answer", "text": "Goiânia foi planejada para ser a nova capital, substituindo Goiás Velho em 1933. A mudança foi uma estratégia para impulsionar o desenvolvimento e a ocupação do interior do estado." } },
+            { "@type": "Question", "name": "Goiânia é a cidade mais arborizada do mundo?", "acceptedAnswer": { "@type": "Answer", "text": "Não, esse é um mito comum. Embora não seja a mais arborizada do mundo, Goiânia é reconhecida como uma das cidades com mais árvores no Brasil, ocupando a 6ª posição no ranking de 2021." } },
+            { "@type": "Question", "name": "Qual é a fama de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A cidade é nacionalmente conhecida como a “Capital do Cerrado” e também como um dos principais polos da música sertaneja e do rock independente no Brasil." } },
+            { "@type": "Question", "name": "Qual é a qualidade de vida em Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Goiânia possui uma boa qualidade de vida, com um Índice de Desenvolvimento Humano (IDH) de 0,799 (dados de 2010), considerado alto e acima da média brasileira na época." } },
+            { "@type": "Question", "name": "Qual é a principal atividade econômica de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A principal força econômica da cidade vem do setor de serviços, que representa 54% do PIB. O comércio e a agroindústria também são atividades muito relevantes." } },
+            { "@type": "Question", "name": "É bom viver em Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Sim, a cidade é frequentemente citada por sua boa infraestrutura, custo de vida relativamente acessível e uma ampla oferta de serviços, cultura e lazer." } },
+            { "@type": "Question", "name": "É seguro morar em Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A cidade tem índices de segurança considerados moderados. Em 2023, a taxa de homicídios foi de 12,9 por 100 mil habitantes, um número abaixo da média nacional." } },
+            { "@type": "Question", "name": "Como se chama quem é natural de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Quem nasce na cidade de Goiânia é chamado de goianiense." } },
+            { "@type": "Question", "name": "O que aproveitar em Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A cidade oferece ótimas opções de lazer, como os parques Vaca Brava e Flamboyant, feiras tradicionais como a Feira da Lua, e uma agitada vida noturna e comercial na Rua 44." } },
+            { "@type": "Question", "name": "Quais são os bairros mais valorizados de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Os bairros com maior valorização imobiliária e procura são o Setor Bueno, Setor Marista, Jardim Goiás e o Setor Alto da Glória, conhecidos pela infraestrutura e padrão de vida." } },
+            { "@type": "Question", "name": "Qual é o setor mais nobre de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "O Setor Bueno é considerado o mais nobre por combinar um alto padrão residencial com um forte e diversificado centro comercial e de serviços." } },
+            { "@type": "Question", "name": "Qual o setor mais luxuoso de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "O Setor Marista se destaca como o mais luxuoso, concentrando a elite econômica da cidade, com restaurantes sofisticados e os imóveis de maior valor agregado." } },
+            { "@type": "Question", "name": "Qual é o bairro mais seguro de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Segundo dados de 2023, o Setor Bueno aparece como o mais seguro, com um índice de 92/100, devido ao policiamento e à infraestrutura local." } },
+            { "@type": "Question", "name": "Qual é o lugar mais bonito de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "O Parque Vaca Brava é frequentemente citado como o cartão-postal da cidade, sendo uma referência de beleza pela combinação de seu lago, natureza e a paisagem urbana ao redor." } },
+            { "@type": "Question", "name": "Qual é o shopping mais luxuoso de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "O Flamboyant Shopping é considerado o mais luxuoso, pois abriga um mix de lojas de marcas premium e grifes internacionais, como Louis Vuitton." } },
+            { "@type": "Question", "name": "Qual a rua mais famosa de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A Rua 44 é a mais famosa em termos comerciais e culturais, sendo um grande polo de moda popular que atrai compradores de todo o Brasil." } },
+            { "@type": "Question", "name": "Qual é a rua mais movimentada de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Em termos de fluxo de veículos, a Avenida 85, que corta bairros como o Setor Sul, é uma das mais movimentadas e importantes artérias da cidade." } },
+            { "@type": "Question", "name": "Quais são as maiores empresas de Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "A cidade é sede de grandes companhias e filiais importantes, com destaque para o Grupo Petrópolis, Algar Agro e a Cargill em seu entorno metropolitano." } },
+            { "@type": "Question", "name": "Quais famosos moram em Goiânia?", "acceptedAnswer": { "@type": "Answer", "text": "Goiânia é a residência de muitos artistas famosos, principalmente do sertanejo, como Gusttavo Lima, Léo Magalhães e Naiara Azevedo." } }
+          ]
+      },
+      "hasPart": [
+        { "@type": "Article", "headline": "Setor Marista: Tudo o que Você Precisa Saber Sobre o Setor mais Cobiçado de Goiânia", "url": "https://portalimovelja.com.br/bairros-em-goiania/marista", "image": { "@type": "ImageObject", "url": "https://portalimovelja.com.br/wp-content/uploads/2025/03/setor-marista-vista-aerea.webp" }, "author": { "@type": "Organization", "name": "Portal Imóvel Já", "url": "https://portalimovelja.com.br/" }, "isPartOf": {"@id": "https://portalimovelja.com.br/cidade/goiania"} },
+        { "@type": "Article", "headline": "Setor Bueno: Tudo o que Você Precisa Saber Sobre Este Bairro de Goiânia", "url": "https://portalimovelja.com.br/bairros-em-goiania/bueno", "image": { "@type": "ImageObject", "url": "https://portalimovelja.com.br/wp-content/uploads/2025/03/setor-bueno-goiania-1.webp" }, "author": { "@type": "Organization", "name": "Portal Imóvel Já", "url": "https://portalimovelja.com.br/" }, "isPartOf": {"@id": "https://portalimovelja.com.br/cidade/goiania"} },
+        { "@type": "Article", "headline": "Jardim América em Goiânia: O Guia mais Completo para Conhecer o Bairro", "url": "https://portalimovelja.com.br/bairros-em-goiania/jardim-america", "image": { "@type": "ImageObject", "url": "https://portalimovelja.com.br/wp-content/uploads/2025/03/jardim-america-goiania.webp" }, "author": { "@type": "Organization", "name": "Portal Imóvel Já", "url": "https://portalimovelja.com.br/" }, "isPartOf": {"@id": "https://portalimovelja.com.br/cidade/goiania"} },
+        { "@type": "Article", "headline": "Setor Sudoeste Goiânia: O Guia Definitivo para Morar, Investir e Viver Bem", "url": "https://portalimovelja.com.br/bairros-em-goiania/setor-sudoeste", "image": { "@type": "ImageObject", "url": "https://portalimovelja.com.br/wp-content/uploads/2025/06/setor-sudoeste-goiania.webp" }, "author": { "@type": "Organization", "name": "Portal Imóvel Já", "url": "https://portalimovelja.com.br/" }, "isPartOf": {"@id": "https://portalimovelja.com.br/cidade/goiania"} },
+        { "@type": "Article", "headline": "As 10 Melhores Imobiliárias em Goiânia: Estratégias e Dicas para Escolher uma Imobiliária", "url": "https://portalimovelja.com.br/dicas-imobiliarias/imobiliarias-em-goiania/", "image": { "@type": "ImageObject", "url": "https://portalimovelja.com.br/wp-content/uploads/2024/11/imobiliarias-em-goiania.avif" }, "author": { "@type": "Organization", "name": "Portal Imóvel Já", "url": "https://portalimovelja.com.br/" }, "isPartOf": {"@id": "https://portalimovelja.com.br/cidade/goiania"} }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://portalimovelja.com.br/#organization",
+      "name": "Portal Imóvel Já",
+      "url": "https://portalimovelja.com.br/",
+      "logo": "https://portalimovelja.com.br/wp-content/uploads/2024/04/logo-portal-imovel-ja.png",
+      "sameAs": [
+        "https://www.youtube.com/@PortalImóvelJá",
+        "https://www.instagram.com/portalimovelja/",
+        "https://www.facebook.com/portalimovelja/"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Rua T-53, Quadra 91, Lote 11/12",
+        "addressLocality": "Goiânia",
+        "addressRegion": "GO",
+        "postalCode": "74215-150",
+        "addressCountry": "BR"
+      },
+      "hasMap": "https://maps.app.goo.gl/Ziw6kNeBLV1EtQgAA"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Início", "item": "https://portalimovelja.com.br/" },
+        { "@type": "ListItem", "position": 2, "name": "Cidades do Brasil", "item": "https://portalimovelja.com.br/cidades-do-brasil/" },
+        { "@type": "ListItem", "position": 3, "name": "Goiânia", "item": "https://portalimovelja.com.br/cidade/goiania" }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://portalimovelja.com.br/#website",
+      "url": "https://portalimovelja.com.br/",
+      "name": "Portal Imóvel Já",
+      "description": "Seu portal completo sobre o mercado imobiliário em Goiânia e no Brasil.",
+      "publisher": {
+        "@id": "https://portalimovelja.com.br/#organization"
+      },
+      "potentialAction": [
+        {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://portalimovelja.com.br/?s={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      ],
+      "inLanguage": "pt-BR"
+    }
+  ]
+}
+</script>

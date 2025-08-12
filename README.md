@@ -8,6 +8,7 @@ The Strategy: Why This Code Works
 This markup leverages several advanced concepts:
 @graph Structure: Instead of single entities, I use @graph to define multiple, interconnected entities on the same page. This provides a richer, more complete context for search engines.
 Pillar & Cluster Model (hasPart / isPartOf): The main Article schema explicitly tells Google that it "hasPart" (tem parte) - a series of cluster articles. This structurally defines the pillar page as the authority hub for the topic "Goiânia".
+
 Comprehensive FAQPage: The extensive FAQ section directly answers the most common user questions, making the content a prime candidate for SGE features and People Also Ask boxes.
 Entity Nesting: The City entity is nested within the main Article, creating a strong semantic connection between the content and the geographical entity it's about.
 The Code: pillar-page-schema.jsonld
